@@ -4,7 +4,7 @@
 # Submission to 2025 Solana Colosseum Submission by:
 - Sultanov Alikham. Game Developer. [GitHub](https://github.com/semgoSE). [TG](https://t.me/semgoSE).
 - Dana Daulet. Artist. [TG](https://t.me/nonexhunt). 
-- Semen Golovchenko. Promo Artist.
+- Yegisbek Nurzhamal. Promo Artist.
 
 # Resources
 - ссылка на презентацию проекта
